@@ -39,6 +39,8 @@ public class SolarPanel : MonoBehaviour
 
     void Update()
     {
+        if (gameManager != null && gameManager.IsPaused()) return;
+
         if (!isVisible)
         {
             appearTimer -= Time.deltaTime;

@@ -16,6 +16,7 @@ public class Appliance : MonoBehaviour
 
     private SpriteRenderer spriteRenderer;
     private AudioSource audioSource;
+    private GameManager gameManager;
     private Color offColor = Color.white;
     private Color onColor = new Color(1f, 0.85f, 0.3f);
 
@@ -26,12 +27,15 @@ public class Appliance : MonoBehaviour
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
         audioSource = GetComponent<AudioSource>();
+        gameManager = FindObjectOfType<GameManager>();
         SetState(false);
         ScheduleNextTurnOn();
     }
 
     void Update()
     {
+        if (gameManager != null && gameManager.IsPaused()) return;
+
         if (!isOn)
         {
             timer += Time.deltaTime;
@@ -73,6 +77,8 @@ public class Appliance : MonoBehaviour
 
     void OnMouseDown()
     {
+        if (gameManager != null && gameManager.IsPaused()) return;
+
         if (isOn)
         {
             TurnOff();
