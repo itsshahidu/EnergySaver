@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: e5b839da234818a4f92fc84d5a65cc62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5870002453546412005
+    second: icon_ac_0
+  - first:
+      213: 4998617953762370119
+    second: icon_ac_1
+  - first:
+      213: 3281607785437624817
+    second: icon_ac_2
+  - first:
+      213: 5623728474135954536
+    second: icon_ac_3
+  - first:
+      213: -7552531683314355176
+    second: icon_ac_4
+  - first:
+      213: -2909613609762776369
+    second: icon_ac_5
+  - first:
+      213: 6499897723017951086
+    second: icon_ac_6
+  - first:
+      213: 3509911425879427990
+    second: icon_ac_7
+  - first:
+      213: 2537617550168652728
+    second: icon_ac_8
+  - first:
+      213: -708717522445430862
+    second: icon_ac_9
+  - first:
+      213: 2420181656599063994
+    second: icon_ac_10
+  - first:
+      213: 146263962547022595
+    second: icon_ac_11
+  - first:
+      213: -75693562472884860
+    second: icon_ac_12
+  - first:
+      213: 8255926126124935598
+    second: icon_ac_13
+  - first:
+      213: 8885084409119078491
+    second: icon_ac_14
+  - first:
+      213: -3087698900242556174
+    second: icon_ac_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icon_ac_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 182
+        width: 478
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e72e428120767150800000000000000
+      internalID: 5870002453546412005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ac_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 115
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74265ed8b88ae5540800000000000000
+      internalID: 4998617953762370119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ac_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 115
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f97a27e4ec9a8d20800000000000000
+      internalID: 3281607785437624817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ac_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 115
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8648f1e504f7b0e40800000000000000
+      internalID: 5623728474135954536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ac_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 115
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8143a25f274003790800000000000000
+      internalID: -7552531683314355176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ac_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 115
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca927476d9fe97d0800000000000000
+      internalID: -2909613609762776369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ac_6
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 115
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67fad88a86443a50800000000000000
+      internalID: 6499897723017951086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ac_7
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 115
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bc0a478d5b5b030800000000000000
+      internalID: 3509911425879427990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ac_8
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 115
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb799d87bd673320800000000000000
+      internalID: 2537617550168652728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ac_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 115
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf8b841b212a26f0800000000000000
+      internalID: -708717522445430862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ac_10
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 115
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abde08dd466369120800000000000000
+      internalID: 2420181656599063994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ac_11
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 115
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b6e0b8c42a70200800000000000000
+      internalID: 146263962547022595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ac_12
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 115
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48515012b1513fef0800000000000000
+      internalID: -75693562472884860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ac_13
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 115
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea92b87e111f29270800000000000000
+      internalID: 8255926126124935598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ac_14
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 115
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5877e4e1392e4b70800000000000000
+      internalID: 8885084409119078491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ac_15
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 115
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa9da5a53a4625d0800000000000000
+      internalID: -3087698900242556174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      icon_ac_0: 5870002453546412005
+      icon_ac_1: 4998617953762370119
+      icon_ac_10: 2420181656599063994
+      icon_ac_11: 146263962547022595
+      icon_ac_12: -75693562472884860
+      icon_ac_13: 8255926126124935598
+      icon_ac_14: 8885084409119078491
+      icon_ac_15: -3087698900242556174
+      icon_ac_2: 3281607785437624817
+      icon_ac_3: 5623728474135954536
+      icon_ac_4: -7552531683314355176
+      icon_ac_5: -2909613609762776369
+      icon_ac_6: 6499897723017951086
+      icon_ac_7: 3509911425879427990
+      icon_ac_8: 2537617550168652728
+      icon_ac_9: -708717522445430862
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
